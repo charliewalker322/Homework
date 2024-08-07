@@ -3,7 +3,7 @@
 int main(int argc, char const *argv[])
 {
     printf("This is master branch");
-    printf("hello world");
+    printf("hello world master!");
     printf("hello world");
     printf("hello world");
     return 0;
