@@ -2,8 +2,8 @@
 
 int main(int argc, char const *argv[])
 {
-    printf("This is the master branch");
-    printf("hello world master!");
+    printf("This is local feature branch");
+    printf("hello world");
     printf("hello world");
     printf("hello world");
     return 0;
